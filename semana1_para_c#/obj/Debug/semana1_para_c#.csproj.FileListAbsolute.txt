@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\FDA_segunda hora\FDA_2025\semana1_para_c#\bin\Debug\semana1_para_c#.exe.config
+C:\Users\UPN\Desktop\FDA_segunda hora\FDA_2025\semana1_para_c#\bin\Debug\semana1_para_c#.exe
+C:\Users\UPN\Desktop\FDA_segunda hora\FDA_2025\semana1_para_c#\bin\Debug\semana1_para_c#.pdb
+C:\Users\UPN\Desktop\FDA_segunda hora\FDA_2025\semana1_para_c#\obj\Debug\semana1_para_c#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FDA_segunda hora\FDA_2025\semana1_para_c#\obj\Debug\semana1_para_c#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FDA_segunda hora\FDA_2025\semana1_para_c#\obj\Debug\semana1_para_c#.exe
+C:\Users\UPN\Desktop\FDA_segunda hora\FDA_2025\semana1_para_c#\obj\Debug\semana1_para_c#.pdb
+C:\Users\UPN\Desktop\FDA_segunda hora\FDA_2025\semana1_para_c#\obj\Debug\semana1_para_c#.exe.config
