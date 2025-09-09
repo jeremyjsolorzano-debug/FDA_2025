@@ -37,7 +37,7 @@ namespace semana1_para_c_
             Console.Write("ingrese numero Y: ");
             int y = int.Parse(Console.ReadLine());
 
-            double resultado = x / y;
+            double resultado = (double)x / (double)y;
 
             Console.WriteLine("Suma: " + (x + y));
             Console.WriteLine("resta: " + (x - y));

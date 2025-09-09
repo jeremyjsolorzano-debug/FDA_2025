@@ -4,4 +4,13 @@ def ejer1():
 
    print(f"\n{nombre}, bienvenido a FDA de {carrera}")#f es igual que el + o el & espara concatenar por interpolacion
 
-   ejer1()
+
+   def ejer2():
+       X = int(input("Ingrese el valor de x: "))
+       y = int(input("Ingrese el valor de y: "))
+   print("suma: ", (x+y))
+   print("resta: ", (x-y))
+   print("suma: ", (x*y))
+   print("suma: ", (x/y))
+
+   ejer2()
